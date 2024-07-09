@@ -1,0 +1,2 @@
+# HiSilicon_Intelligent-Forestry-UAV-Plant-Protection-System
+2024_hisilicon_embedded_competition
